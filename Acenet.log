@@ -1,0 +1,36 @@
+Wed, 19 Nov 2014 13:32:49 Op_Acenet.py[line:329] INFO ---------------------------Login--------------------------------
+Wed, 19 Nov 2014 13:32:51 Op_Acenet.py[line:81] INFO User had login OK!
+Wed, 19 Nov 2014 13:32:51 Op_Acenet.py[line:339] INFO ---------------------------Get Flow Data--------------------------------
+Wed, 19 Nov 2014 13:33:02 Op_Acenet.py[line:96] INFO Frist Switch  to cnt frame
+Wed, 19 Nov 2014 13:33:02 Op_Acenet.py[line:110] INFO Get realtime  date OK!
+Wed, 19 Nov 2014 13:33:04 Op_Acenet.py[line:135] INFO Get total Data OK!
+Wed, 19 Nov 2014 13:33:04 Op_Acenet.py[line:346] INFO Get data is OK!
+Wed, 19 Nov 2014 13:33:04 Op_Acenet.py[line:360] INFO ---------------------------Connect mysql DB--------------------------------
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:370] INFO ---------------------------Insert Flow Data to DB--------------------------------
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:167] INFO Insert database OK!
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:167] INFO Insert database OK!
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:375] INFO Run Insert data is ok!
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:382] INFO ---------------------------Get block ip list--------------------------------
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:198] INFO find high flow ip  OK!
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:198] INFO find high flow ip  OK!
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:389] INFO [u'192.168.68.92']
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:391] INFO []
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:396] INFO ---------------------------Filter block ip list--------------------------------
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:404] INFO Realtime safe ip list
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:407] INFO ('192.168.65.11',)
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:407] INFO ('192.168.75.20',)
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:407] INFO ('192.168.65.27',)
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:407] INFO ('192.168.65.200',)
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:407] INFO ('192.168.67.87',)
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:407] INFO ('192.168.67.104',)
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:407] INFO ('192.168.65.201',)
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:407] INFO ('192.168.67.34',)
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:451] INFO [u'192.168.68.92']
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:452] INFO []
+Wed, 19 Nov 2014 13:33:05 Op_Acenet.py[line:454] INFO ---------------------------This is Add block ip info--------------------------------
+Wed, 19 Nov 2014 13:33:07 Op_Acenet.py[line:221] INFO Change to block ip page OK!
+Wed, 19 Nov 2014 13:33:07 Op_Acenet.py[line:458] INFO switch to block ip page
+Wed, 19 Nov 2014 13:33:07 Op_Acenet.py[line:490] INFO Not total ip need total block
+Wed, 19 Nov 2014 13:33:10 Op_Acenet.py[line:259] INFO Add block ip: 192.168.68.92   OK!
+Wed, 19 Nov 2014 13:33:12 Op_Acenet.py[line:515] INFO ---------------------------This is remove block ip info-------------------------------
+Wed, 19 Nov 2014 13:33:12 Op_Acenet.py[line:554] INFO ----------------------------Run over! Quit!-------------------------------

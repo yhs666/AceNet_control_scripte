@@ -1,0 +1,37 @@
+[acenet]
+url = http://192.168.67.251:8080
+username = root
+password = tibco1234
+
+
+[database]
+ip = 192.168.65.202
+username = python
+password =python
+db = IT
+
+[table]
+realtime_total = flow_realtime_total
+realtime_recv = flow_realtime_recv
+realtime_send = flow_realtime_send
+total_total = flow_total_total
+total_recv = flow_total_recv
+total_send = flow_total_send
+
+blockip = flow_blockip
+unlockip = flow_unlockip
+
+[limits]
+
+realtime =4500:0:0
+total = 5000:0:0
+
+[blockip]
+realtime = 1min
+total = 1day
+
+[policy]
+
+safe_ip =flow_safeip
+ip_log =flow_flowlog
+

@@ -1,0 +1,9 @@
+('C:\\Users\\yanghongsheng-lt\\PycharmProjects\\test\\dist\\Op_Acenet.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 1416375336L)

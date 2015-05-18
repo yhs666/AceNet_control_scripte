@@ -1,0 +1,78 @@
+Tue, 04 Nov 2014 08:47:58 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session {"desiredCapabilities": {"platform": "WINDOWS", "browserName": "internet explorer", "version": "", "javascriptEnabled": true}}
+Tue, 04 Nov 2014 08:48:06 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:06 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/url {"url": "http://192.168.67.251:8080", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d"}
+Tue, 04 Nov 2014 08:48:09 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:09 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/elements {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "username2"}
+Tue, 04 Nov 2014 08:48:10 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:10 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/elements {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "username2"}
+Tue, 04 Nov 2014 08:48:10 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:10 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/a5cec41f-1870-4c5b-95de-bcacd32e8012/value {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "a5cec41f-1870-4c5b-95de-bcacd32e8012", "value": ["r", "o", "o", "t"]}
+Tue, 04 Nov 2014 08:48:11 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:11 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/elements {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "password2"}
+Tue, 04 Nov 2014 08:48:11 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:11 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/7f07c195-c274-4215-a788-b88f949804bb/value {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "7f07c195-c274-4215-a788-b88f949804bb", "value": ["t", "i", "b", "c", "o", "1", "2", "3", "4"]}
+Tue, 04 Nov 2014 08:48:12 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:12 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/elements {"using": "name", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "goto"}
+Tue, 04 Nov 2014 08:48:12 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:12 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/b6563001-0431-49fb-8ec8-e239da94bd0f/click {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "b6563001-0431-49fb-8ec8-e239da94bd0f"}
+Tue, 04 Nov 2014 08:48:12 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:13 logging[line:1611] INFO User had login
+Tue, 04 Nov 2014 08:48:13 selenium.webdriver.remote.remote_connection[line:363] DEBUG GET http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/window_handle {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d"}
+Tue, 04 Nov 2014 08:48:13 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:15 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/frame {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "cnt"}
+Tue, 04 Nov 2014 08:48:16 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:16 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/elements {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "aaaera22"}
+Tue, 04 Nov 2014 08:48:16 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:16 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/24fe7752-fc21-4a1c-9a89-8a5e6bf3bf5a/click {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "24fe7752-fc21-4a1c-9a89-8a5e6bf3bf5a"}
+Tue, 04 Nov 2014 08:48:20 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:20 logging[line:1611] INFO Frist Switch  to cnt frame
+Tue, 04 Nov 2014 08:48:20 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/timeouts/implicit_wait {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "ms": 5000.0}
+Tue, 04 Nov 2014 08:48:20 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:20 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/window {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "2e33f640-37a3-46ca-bc9b-76c0d9818684"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/frame {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "cnt"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "eum_last5_traffic_total"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG GET http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/751a4f27-2774-4afc-b6b9-1805af8de60c/attribute/value {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "value", "id": "751a4f27-2774-4afc-b6b9-1805af8de60c"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "eum_last5_traffic_recv"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG GET http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/a725144a-8845-4590-9b71-d07c3e84a9d5/attribute/value {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "value", "id": "a725144a-8845-4590-9b71-d07c3e84a9d5"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "eum_last5_traffic_send"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG GET http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/64fbe898-8b79-4431-a30c-3d48b1dbe92e/attribute/value {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "value", "id": "64fbe898-8b79-4431-a30c-3d48b1dbe92e"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 logging[line:1611] INFO Insert realtime  date OK!
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/timeouts/implicit_wait {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "ms": 5000.0}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/window {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "2e33f640-37a3-46ca-bc9b-76c0d9818684"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/frame {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "cmd"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/elements {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "tabs"}
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:21 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/3c170408-ae57-433d-b212-07b7bbf868db/click {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "3c170408-ae57-433d-b212-07b7bbf868db"}
+Tue, 04 Nov 2014 08:48:22 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:22 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/timeouts/implicit_wait {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "ms": 5000.0}
+Tue, 04 Nov 2014 08:48:22 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:22 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/window {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "2e33f640-37a3-46ca-bc9b-76c0d9818684"}
+Tue, 04 Nov 2014 08:48:22 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:22 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/frame {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "id": "cnt"}
+Tue, 04 Nov 2014 08:48:22 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:22 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "eum_ip_subscriber_online_today_total"}
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:363] DEBUG GET http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/5e9702b8-ebff-48b4-aaf0-1b56a3c7d1e6/attribute/value {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "value", "id": "5e9702b8-ebff-48b4-aaf0-1b56a3c7d1e6"}
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "eum_ip_subscriber_online_today_recv"}
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:363] DEBUG GET http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/5b720f09-3903-4e8f-a04d-7961e51ef72b/attribute/value {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "value", "id": "5b720f09-3903-4e8f-a04d-7961e51ef72b"}
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:363] DEBUG POST http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element {"using": "id", "sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "value": "eum_ip_subscriber_online_today_send"}
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:363] DEBUG GET http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d/element/f5e6bc7d-7c81-4c07-ab3f-8c74a2e2c39e/attribute/value {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d", "name": "value", "id": "f5e6bc7d-7c81-4c07-ab3f-8c74a2e2c39e"}
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
+Tue, 04 Nov 2014 08:48:23 logging[line:1611] INFO Insert total  date OK!
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:363] DEBUG DELETE http://127.0.0.1:52635/session/8c50e361-abf5-4bf5-933f-de141df4c73d {"sessionId": "8c50e361-abf5-4bf5-933f-de141df4c73d"}
+Tue, 04 Nov 2014 08:48:23 selenium.webdriver.remote.remote_connection[line:458] DEBUG Finished Request
